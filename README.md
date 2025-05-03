@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pie</h1>
-<h3 align="center">I am learning Python.</h3>
+<h3 align="center">I am learning Python and Git.</h3>
 
 - 🌱 I’m currently learning **Basics of Python.**
 
